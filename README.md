@@ -1,10 +1,13 @@
 # Data_Scraping_Challenge
 This Challenge, core skills required were : collecting data, organizing and storing data, analyzing data, and then visually communicating your insights.
 This assignment consists of two technical products.
+
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
-##Part 1: Scrape Titles and Preview Text from Mars News
+
+
+**##Part 1: Scrape Titles and Preview Text from Mars News**
 <img width="416" alt="image" src="https://github.com/Dhawanpreetk/Data_Scraping_Challenge/assets/130263833/23b32d99-fb71-4a4f-bcf1-03a5984b5932">
 
 Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
